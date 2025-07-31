@@ -43,7 +43,7 @@ const Header = () => {
         {/* Logo */}
         <Link to="/homepage" className="flex items-center space-x-2 group">
           <div className="relative h-10 w-10">
-            <img src="\src\components\ui\nirvaan-logo.jpg" />
+            <img src="\public\nirvaan-logo.jpg" />
           <div>
             </div>
           </div>
